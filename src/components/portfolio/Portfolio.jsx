@@ -58,12 +58,12 @@ const Portfolio = () => {
             filter === "all" || filter === "design" ? "portfolio-item" : "hide"
           }
           onClick={() =>
-            setSelectedImage("/img/portfolio/portfolio-1_files/Full/Design 9.jpg")
+            setSelectedImage("./img/portfolio/portfolio-1_files/Full/Design 9.jpg")
           }
         >
           <div className="portfolio-wrap">
             <img
-              src="/img/portfolio/portfolio-1_files/Thumbnail/Design 9.jpg"
+              src="./img/portfolio/portfolio-1_files/Thumbnail/Design 9.jpg"
               className="img-fluid"
               alt=""
             />
@@ -79,12 +79,12 @@ const Portfolio = () => {
             filter === "all" || filter === "design" ? "portfolio-item" : "hide"
           }
           onClick={() =>
-            setSelectedImage("/img/portfolio/portfolio-1_files/Full/Design 12.jpg")
+            setSelectedImage("./img/portfolio/portfolio-1_files/Full/Design 12.jpg")
           }
         >
           <div className="portfolio-wrap">
             <img
-              src="/img/portfolio/portfolio-1_files/Thumbnail/Design 12.jpg"
+              src="./img/portfolio/portfolio-1_files/Thumbnail/Design 12.jpg"
               className="img-fluid"
               alt=""
             />
@@ -100,12 +100,12 @@ const Portfolio = () => {
             filter === "all" || filter === "design" ? "portfolio-item" : "hide"
           }
           onClick={() =>
-            setSelectedImage("/img/portfolio/portfolio-1_files/Full/Design 13.jpg")
+            setSelectedImage("./img/portfolio/portfolio-1_files/Full/Design 13.jpg")
           }
         >
           <div className="portfolio-wrap">
             <img
-              src="/img/portfolio/portfolio-1_files/Thumbnail/Design 13.jpg"
+              src="./img/portfolio/portfolio-1_files/Thumbnail/Design 13.jpg"
               className="img-fluid"
               alt=""
             />
@@ -121,12 +121,12 @@ const Portfolio = () => {
             filter === "all" || filter === "design" ? "portfolio-item" : "hide"
           }
           onClick={() =>
-            setSelectedImage("/img/portfolio/portfolio-1_files/Full/Design 11.jpg")
+            setSelectedImage("./img/portfolio/portfolio-1_files/Full/Design 11.jpg")
           }
         >
           <div className="portfolio-wrap">
             <img
-              src="/img/portfolio/portfolio-1_files/Thumbnail/Design 11.jpg"
+              src="./img/portfolio/portfolio-1_files/Thumbnail/Design 11.jpg"
               className="img-fluid"
               alt=""
             />
@@ -142,12 +142,12 @@ const Portfolio = () => {
             filter === "all" || filter === "design" ? "portfolio-item" : "hide"
           }
           onClick={() =>
-            setSelectedImage("/img/portfolio/portfolio-1_files/Full/Design 10.jpg")
+            setSelectedImage("./img/portfolio/portfolio-1_files/Full/Design 10.jpg")
           }
         >
           <div className="portfolio-wrap">
             <img
-              src="/img/portfolio/portfolio-1_files/Thumbnail/Design 10.jpg"
+              src="./img/portfolio/portfolio-1_files/Thumbnail/Design 10.jpg"
               className="img-fluid"
               alt=""
             />
@@ -163,12 +163,12 @@ const Portfolio = () => {
             filter === "all" || filter === "design" ? "portfolio-item" : "hide"
           }
           onClick={() =>
-            setSelectedImage("/img/portfolio/portfolio-1_files/Full/Design 14.jpg")
+            setSelectedImage("./img/portfolio/portfolio-1_files/Full/Design 14.jpg")
           }
         >
           <div className="portfolio-wrap">
             <img
-              src="/img/portfolio/portfolio-1_files/Thumbnail/Design 14.jpg"
+              src="./img/portfolio/portfolio-1_files/Thumbnail/Design 14.jpg"
               className="img-fluid"
               alt=""
             />
@@ -184,12 +184,12 @@ const Portfolio = () => {
             filter === "all" || filter === "design" ? "portfolio-item" : "hide"
           }
           onClick={() =>
-            setSelectedImage("/img/portfolio/portfolio-1_files/Full/Design 16.jpg")
+            setSelectedImage("./img/portfolio/portfolio-1_files/Full/Design 16.jpg")
           }
         >
           <div className="portfolio-wrap">
             <img
-              src="/img/portfolio/portfolio-1_files/Thumbnail/Design 16.jpg"
+              src="./img/portfolio/portfolio-1_files/Thumbnail/Design 16.jpg"
               className="img-fluid"
               alt=""
             />
@@ -205,12 +205,12 @@ const Portfolio = () => {
             filter === "all" || filter === "design" ? "portfolio-item" : "hide"
           }
           onClick={() =>
-            setSelectedImage("/img/portfolio/portfolio-1_files/Full/Design 17.jpg")
+            setSelectedImage("./img/portfolio/portfolio-1_files/Full/Design 17.jpg")
           }
         >
           <div className="portfolio-wrap">
             <img
-              src="/img/portfolio/portfolio-1_files/Thumbnail/Design 17.jpg"
+              src="./img/portfolio/portfolio-1_files/Thumbnail/Design 17.jpg"
               className="img-fluid"
               alt=""
             />
@@ -226,12 +226,12 @@ const Portfolio = () => {
             filter === "all" || filter === "design" ? "portfolio-item" : "hide"
           }
           onClick={() =>
-            setSelectedImage("/img/portfolio/portfolio-1_files/Full/Design 18.jpg")
+            setSelectedImage("./img/portfolio/portfolio-1_files/Full/Design 18.jpg")
           }
         >
           <div className="portfolio-wrap">
             <img
-              src="/img/portfolio/portfolio-1_files/Thumbnail/Design 18.jpg"
+              src="./img/portfolio/portfolio-1_files/Thumbnail/Design 18.jpg"
               className="img-fluid"
               alt=""
             />
@@ -247,12 +247,12 @@ const Portfolio = () => {
             filter === "all" || filter === "design" ? "portfolio-item" : "hide"
           }
           onClick={() =>
-            setSelectedImage("/img/portfolio/portfolio-1_files/Full/Design 15.jpg")
+            setSelectedImage("./img/portfolio/portfolio-1_files/Full/Design 15.jpg")
           }
         >
           <div className="portfolio-wrap">
             <img
-              src="/img/portfolio/portfolio-1_files/Thumbnail/Design 15.jpg"
+              src="./img/portfolio/portfolio-1_files/Thumbnail/Design 15.jpg"
               className="img-fluid"
               alt=""
             />
@@ -268,12 +268,12 @@ const Portfolio = () => {
             filter === "all" || filter === "design" ? "portfolio-item" : "hide"
           }
           onClick={() =>
-            setSelectedImage("/img/portfolio/portfolio-1_files/Full/Design 20.jpg")
+            setSelectedImage("./img/portfolio/portfolio-1_files/Full/Design 20.jpg")
           }
         >
           <div className="portfolio-wrap">
             <img
-              src="/img/portfolio/portfolio-1_files/Thumbnail/Design 20.jpg"
+              src="./img/portfolio/portfolio-1_files/Thumbnail/Design 20.jpg"
               className="img-fluid"
               alt=""
             />
@@ -288,12 +288,12 @@ const Portfolio = () => {
             filter === "all" || filter === "design" ? "portfolio-item" : "hide"
           }
           onClick={() =>
-            setSelectedImage("/img/portfolio/portfolio-1_files/Full/Design 19.jpg")
+            setSelectedImage("./img/portfolio/portfolio-1_files/Full/Design 19.jpg")
           }
         >
           <div className="portfolio-wrap">
             <img
-              src="/img/portfolio/portfolio-1_files/Thumbnail/Design 19.jpg"
+              src="./img/portfolio/portfolio-1_files/Thumbnail/Design 19.jpg"
               className="img-fluid"
               alt=""
             />
@@ -309,12 +309,12 @@ const Portfolio = () => {
             filter === "all" || filter === "design" ? "portfolio-item" : "hide"
           }
           onClick={() =>
-            setSelectedImage("/img/portfolio/portfolio-1_files/Full/Design 1.jpg")
+            setSelectedImage("./img/portfolio/portfolio-1_files/Full/Design 1.jpg")
           }
         >
           <div className="portfolio-wrap">
             <img
-              src="/img/portfolio/portfolio-1_files/Thumbnail/Design 1.jpg"
+              src="./img/portfolio/portfolio-1_files/Thumbnail/Design 1.jpg"
               className="img-fluid"
               alt=""
             />
@@ -329,12 +329,12 @@ const Portfolio = () => {
             filter === "all" || filter === "design" ? "portfolio-item" : "hide"
           }
           onClick={() =>
-            setSelectedImage("/img/portfolio/portfolio-1_files/Full/Design 2.jpg")
+            setSelectedImage("./img/portfolio/portfolio-1_files/Full/Design 2.jpg")
           }
         >
           <div className="portfolio-wrap">
             <img
-              src="/img/portfolio/portfolio-1_files/Thumbnail/Design 2.jpg"
+              src="./img/portfolio/portfolio-1_files/Thumbnail/Design 2.jpg"
               className="img-fluid"
               alt=""
             />
@@ -351,12 +351,12 @@ const Portfolio = () => {
             filter === "all" || filter === "design" ? "portfolio-item" : "hide"
           }
           onClick={() =>
-            setSelectedImage("/img/portfolio/portfolio-1_files/Full/Design 3.jpg")
+            setSelectedImage("./img/portfolio/portfolio-1_files/Full/Design 3.jpg")
           }
         >
           <div className="portfolio-wrap">
             <img
-              src="/img/portfolio/portfolio-1_files/Thumbnail/Design 3.jpg"
+              src="./img/portfolio/portfolio-1_files/Thumbnail/Design 3.jpg"
               className="img-fluid"
               alt=""
             />
@@ -372,12 +372,12 @@ const Portfolio = () => {
             filter === "all" || filter === "design" ? "portfolio-item" : "hide"
           }
           onClick={() =>
-            setSelectedImage("/img/portfolio/portfolio-1_files/Full/Design 5.jpg")
+            setSelectedImage("./img/portfolio/portfolio-1_files/Full/Design 5.jpg")
           }
         >
           <div className="portfolio-wrap">
             <img
-              src="/img/portfolio/portfolio-1_files/Thumbnail/Design 5.jpg"
+              src="./img/portfolio/portfolio-1_files/Thumbnail/Design 5.jpg"
               className="img-fluid"
               alt=""
             />
@@ -393,12 +393,12 @@ const Portfolio = () => {
             filter === "all" || filter === "design" ? "portfolio-item" : "hide"
           }
           onClick={() =>
-            setSelectedImage("/img/portfolio/portfolio-1_files/Full/Design 6.jpg")
+            setSelectedImage("./img/portfolio/portfolio-1_files/Full/Design 6.jpg")
           }
         >
           <div className="portfolio-wrap">
             <img
-              src="/img/portfolio/portfolio-1_files/Thumbnail/Design 6.jpg"
+              src="./img/portfolio/portfolio-1_files/Thumbnail/Design 6.jpg"
               className="img-fluid"
               alt=""
             />
@@ -414,12 +414,12 @@ const Portfolio = () => {
             filter === "all" || filter === "design" ? "portfolio-item" : "hide"
           }
           onClick={() =>
-            setSelectedImage("/img/portfolio/portfolio-1_files/Full/Design 8.jpg")
+            setSelectedImage("./img/portfolio/portfolio-1_files/Full/Design 8.jpg")
           }
         >
           <div className="portfolio-wrap">
             <img
-              src="/img/portfolio/portfolio-1_files/Thumbnail/Design 8.jpg"
+              src="./img/portfolio/portfolio-1_files/Thumbnail/Design 8.jpg"
               className="img-fluid"
               alt=""
             />
@@ -436,12 +436,12 @@ const Portfolio = () => {
             filter === "all" || filter === "design" ? "portfolio-item" : "hide"
           }
           onClick={() =>
-            setSelectedImage("/img/portfolio/portfolio-1_files/Full/Design 7.jpg")
+            setSelectedImage("./img/portfolio/portfolio-1_files/Full/Design 7.jpg")
           }
         >
           <div className="portfolio-wrap">
             <img
-              src="/img/portfolio/portfolio-1_files/Thumbnail/Design 7.jpg"
+              src="./img/portfolio/portfolio-1_files/Thumbnail/Design 7.jpg"
               className="img-fluid"
               alt=""
             />
@@ -458,12 +458,12 @@ const Portfolio = () => {
             filter === "all" || filter === "design" ? "portfolio-item" : "hide"
           }
           onClick={() =>
-            setSelectedImage("/img/portfolio/portfolio-1_files/Full/Car Branding.jpg")
+            setSelectedImage("./img/portfolio/portfolio-1_files/Full/Car Branding.jpg")
           }
         >
           <div className="portfolio-wrap">
             <img
-              src="/img/portfolio/portfolio-1_files/Thumbnail/Car Branding.jpg"
+              src="./img/portfolio/portfolio-1_files/Thumbnail/Car Branding.jpg"
               className="img-fluid"
               alt=""
             />
@@ -479,12 +479,12 @@ const Portfolio = () => {
             filter === "all" || filter === "design" ? "portfolio-item" : "hide"
           }
           onClick={() =>
-            setSelectedImage("/img/portfolio/portfolio-1_files/Full/Motorbike Branding.jpg")
+            setSelectedImage("./img/portfolio/portfolio-1_files/Full/Motorbike Branding.jpg")
           }
         >
           <div className="portfolio-wrap">
             <img
-              src="/img/portfolio/portfolio-1_files/Thumbnail/Motorbike Branding.jpg"
+              src="./img/portfolio/portfolio-1_files/Thumbnail/Motorbike Branding.jpg"
               className="img-fluid"
               alt=""
             />
@@ -499,12 +499,12 @@ const Portfolio = () => {
             filter === "all" || filter === "illustration" ? "portfolio-item" : "hide"
           }
           onClick={() =>
-            setSelectedImage("/img/portfolio/portfolio-1_files/Full/illustration 2.jpg")
+            setSelectedImage("./img/portfolio/portfolio-1_files/Full/illustration 2.jpg")
           }
         >
           <div className="portfolio-wrap">
             <img
-              src="/img/portfolio/portfolio-1_files/Thumbnail/illustration 2.jpg"
+              src="./img/portfolio/portfolio-1_files/Thumbnail/illustration 2.jpg"
               className="img-fluid"
               alt=""
             />
@@ -521,12 +521,12 @@ const Portfolio = () => {
             filter === "all" || filter === "design" ? "portfolio-item" : "hide"
           }
           onClick={() =>
-            setSelectedImage("/img/portfolio/portfolio-1_files/Full/Brand Guidline.jpg")
+            setSelectedImage("./img/portfolio/portfolio-1_files/Full/Brand Guidline.jpg")
           }
         >
           <div className="portfolio-wrap">
             <img
-              src="/img/portfolio/portfolio-1_files/Thumbnail/Brand Guidline.jpg"
+              src="./img/portfolio/portfolio-1_files/Thumbnail/Brand Guidline.jpg"
               className="img-fluid"
               alt=""
             />
@@ -543,12 +543,12 @@ const Portfolio = () => {
             filter === "all" || filter === "design" ? "portfolio-item" : "hide"
           }
           onClick={() =>
-            setSelectedImage("/img/portfolio/portfolio-1_files/Full/Branding.jpg")
+            setSelectedImage("./img/portfolio/portfolio-1_files/Full/Branding.jpg")
           }
         >
           <div className="portfolio-wrap">
             <img
-              src="/img/portfolio/portfolio-1_files/Thumbnail/Branding.jpg"
+              src="./img/portfolio/portfolio-1_files/Thumbnail/Branding.jpg"
               className="img-fluid"
               alt=""
             />
@@ -565,12 +565,12 @@ const Portfolio = () => {
             filter === "all" || filter === "design" ? "portfolio-item" : "hide"
           }
           onClick={() =>
-            setSelectedImage("/img/portfolio/portfolio-1_files/Full/Design 22.jpg")
+            setSelectedImage("./img/portfolio/portfolio-1_files/Full/Design 22.jpg")
           }
         >
           <div className="portfolio-wrap">
             <img
-              src="/img/portfolio/portfolio-1_files/Thumbnail/Design 22.jpg"
+              src="./img/portfolio/portfolio-1_files/Thumbnail/Design 22.jpg"
               className="img-fluid"
               alt=""
             />
@@ -587,12 +587,12 @@ const Portfolio = () => {
             filter === "all" || filter === "design" ? "portfolio-item" : "hide"
           }
           onClick={() =>
-            setSelectedImage("/img/portfolio/portfolio-1_files/Full/Design 27.jpg")
+            setSelectedImage("./img/portfolio/portfolio-1_files/Full/Design 27.jpg")
           }
         >
           <div className="portfolio-wrap">
             <img
-              src="/img/portfolio/portfolio-1_files/Thumbnail/Design 27.jpg"
+              src="./img/portfolio/portfolio-1_files/Thumbnail/Design 27.jpg"
               className="img-fluid"
               alt=""
             />
@@ -609,12 +609,12 @@ const Portfolio = () => {
             filter === "all" || filter === "design" ? "portfolio-item" : "hide"
           }
           onClick={() =>
-            setSelectedImage("/img/portfolio/portfolio-1_files/Full/Design 30.jpg")
+            setSelectedImage("./img/portfolio/portfolio-1_files/Full/Design 30.jpg")
           }
         >
           <div className="portfolio-wrap">
             <img
-              src="/img/portfolio/portfolio-1_files/Thumbnail/Design 30.jpg"
+              src="./img/portfolio/portfolio-1_files/Thumbnail/Design 30.jpg"
               className="img-fluid"
               alt=""
             />
@@ -632,12 +632,12 @@ const Portfolio = () => {
             filter === "all" || filter === "design" ? "portfolio-item" : "hide"
           }
           onClick={() =>
-            setSelectedImage("/img/portfolio/portfolio-1_files/Full/Design 24.jpg")
+            setSelectedImage("./img/portfolio/portfolio-1_files/Full/Design 24.jpg")
           }
         >
           <div className="portfolio-wrap">
             <img
-              src="/img/portfolio/portfolio-1_files/Thumbnail/Design 24.jpg"
+              src="./img/portfolio/portfolio-1_files/Thumbnail/Design 24.jpg"
               className="img-fluid"
               alt=""
             />
@@ -654,12 +654,12 @@ const Portfolio = () => {
             filter === "all" || filter === "design" ? "portfolio-item" : "hide"
           }
           onClick={() =>
-            setSelectedImage("/img/portfolio/portfolio-1_files/Full/Design 29.jpg")
+            setSelectedImage("./img/portfolio/portfolio-1_files/Full/Design 29.jpg")
           }
         >
           <div className="portfolio-wrap">
             <img
-              src="/img/portfolio/portfolio-1_files/Thumbnail/Design 29.jpg"
+              src="./img/portfolio/portfolio-1_files/Thumbnail/Design 29.jpg"
               className="img-fluid"
               alt=""
             />
@@ -676,12 +676,12 @@ const Portfolio = () => {
             filter === "all" || filter === "design" ? "portfolio-item" : "hide"
           }
           onClick={() =>
-            setSelectedImage("/img/portfolio/portfolio-1_files/Full/Roll-up dedsign.jpg")
+            setSelectedImage("./img/portfolio/portfolio-1_files/Full/Roll-up dedsign.jpg")
           }
         >
           <div className="portfolio-wrap">
             <img
-              src="/img/portfolio/portfolio-1_files/Thumbnail/Roll-up dedsign.png"
+              src="./img/portfolio/portfolio-1_files/Thumbnail/Roll-up dedsign.png"
               className="img-fluid"
               alt=""
             />
@@ -698,12 +698,12 @@ const Portfolio = () => {
             filter === "all" || filter === "design" ? "portfolio-item" : "hide"
           }
           onClick={() =>
-            setSelectedImage("/img/portfolio/portfolio-1_files/Full/Design 23.jpg")
+            setSelectedImage("./img/portfolio/portfolio-1_files/Full/Design 23.jpg")
           }
         >
           <div className="portfolio-wrap">
             <img
-              src="/img/portfolio/portfolio-1_files/Thumbnail/Design 23.jpg"
+              src="./img/portfolio/portfolio-1_files/Thumbnail/Design 23.jpg"
               className="img-fluid"
               alt=""
             />
@@ -720,12 +720,12 @@ const Portfolio = () => {
             filter === "all" || filter === "design" ? "portfolio-item" : "hide"
           }
           onClick={() =>
-            setSelectedImage("/img/portfolio/portfolio-1_files/Full/Design 4.jpg")
+            setSelectedImage("./img/portfolio/portfolio-1_files/Full/Design 4.jpg")
           }
         >
           <div className="portfolio-wrap">
             <img
-              src="/img/portfolio/portfolio-1_files/Thumbnail/Design 4.jpg"
+              src="./img/portfolio/portfolio-1_files/Thumbnail/Design 4.jpg"
               className="img-fluid"
               alt=""
             />
@@ -742,12 +742,12 @@ const Portfolio = () => {
             filter === "all" || filter === "design" ? "portfolio-item" : "hide"
           }
           onClick={() =>
-            setSelectedImage("/img/portfolio/portfolio-1_files/Full/Design 21.jpg")
+            setSelectedImage("./img/portfolio/portfolio-1_files/Full/Design 21.jpg")
           }
         >
           <div className="portfolio-wrap">
             <img
-              src="/img/portfolio/portfolio-1_files/Thumbnail/Design 21.jpg"
+              src="./img/portfolio/portfolio-1_files/Thumbnail/Design 21.jpg"
               className="img-fluid"
               alt=""
             />
@@ -764,12 +764,12 @@ const Portfolio = () => {
             filter === "all" || filter === "illustration" ? "portfolio-item" : "hide"
           }
           onClick={() =>
-            setSelectedImage("/img/portfolio/portfolio-1_files/Full/Design 25.jpg")
+            setSelectedImage("./img/portfolio/portfolio-1_files/Full/Design 25.jpg")
           }
         >
           <div className="portfolio-wrap">
             <img
-              src="/img/portfolio/portfolio-1_files/Thumbnail/Design 25.jpg"
+              src="./img/portfolio/portfolio-1_files/Thumbnail/Design 25.jpg"
               className="img-fluid"
               alt=""
             />
@@ -786,12 +786,12 @@ const Portfolio = () => {
             filter === "all" || filter === "illustration" ? "portfolio-item" : "hide"
           }
           onClick={() =>
-            setSelectedImage("/img/portfolio/portfolio-1_files/Full/Design 26.jpg")
+            setSelectedImage("./img/portfolio/portfolio-1_files/Full/Design 26.jpg")
           }
         >
           <div className="portfolio-wrap">
             <img
-              src="/img/portfolio/portfolio-1_files/Thumbnail/Design 26.jpg"
+              src="./img/portfolio/portfolio-1_files/Thumbnail/Design 26.jpg"
               className="img-fluid"
               alt=""
             />
@@ -808,12 +808,12 @@ const Portfolio = () => {
             filter === "all" || filter === "illustration" ? "portfolio-item" : "hide"
           }
           onClick={() =>
-            setSelectedImage("/img/portfolio/portfolio-1_files/Full/illustration 1.jpg")
+            setSelectedImage("./img/portfolio/portfolio-1_files/Full/illustration 1.jpg")
           }
         >
           <div className="portfolio-wrap">
             <img
-              src="/img/portfolio/portfolio-1_files/Thumbnail/illustration 1.jpg"
+              src="./img/portfolio/portfolio-1_files/Thumbnail/illustration 1.jpg"
               className="img-fluid"
               alt=""
             />
@@ -830,12 +830,12 @@ const Portfolio = () => {
             filter === "all" || filter === "illustration" ? "portfolio-item" : "hide"
           }
           onClick={() =>
-            setSelectedImage("/img/portfolio/portfolio-1_files/Full/illustration 7.jpg")
+            setSelectedImage("./img/portfolio/portfolio-1_files/Full/illustration 7.jpg")
           }
         >
           <div className="portfolio-wrap">
             <img
-              src="/img/portfolio/portfolio-1_files/Thumbnail/illustration 7.jpg"
+              src="./img/portfolio/portfolio-1_files/Thumbnail/illustration 7.jpg"
               className="img-fluid"
               alt=""
             />
@@ -852,12 +852,12 @@ const Portfolio = () => {
             filter === "all" || filter === "illustration" ? "portfolio-item" : "hide"
           }
           onClick={() =>
-            setSelectedImage("/img/portfolio/portfolio-1_files/Full/illustration 3.jpg")
+            setSelectedImage("./img/portfolio/portfolio-1_files/Full/illustration 3.jpg")
           }
         >
           <div className="portfolio-wrap">
             <img
-              src="/img/portfolio/portfolio-1_files/Thumbnail/illustration 3.jpg"
+              src="./img/portfolio/portfolio-1_files/Thumbnail/illustration 3.jpg"
               className="img-fluid"
               alt=""
             />
@@ -874,12 +874,12 @@ const Portfolio = () => {
             filter === "all" || filter === "illustration" ? "portfolio-item" : "hide"
           }
           onClick={() =>
-            setSelectedImage("/img/portfolio/portfolio-1_files/Full/illustration 6.jpg")
+            setSelectedImage("./img/portfolio/portfolio-1_files/Full/illustration 6.jpg")
           }
         >
           <div className="portfolio-wrap">
             <img
-              src="/img/portfolio/portfolio-1_files/Thumbnail/illustration 6.jpg"
+              src="./img/portfolio/portfolio-1_files/Thumbnail/illustration 6.jpg"
               className="img-fluid"
               alt=""
             />
@@ -896,12 +896,12 @@ const Portfolio = () => {
             filter === "all" || filter === "illustration" ? "portfolio-item" : "hide"
           }
           onClick={() =>
-            setSelectedImage("/img/portfolio/portfolio-1_files/Full/illustration 5.jpg")
+            setSelectedImage("./img/portfolio/portfolio-1_files/Full/illustration 5.jpg")
           }
         >
           <div className="portfolio-wrap">
             <img
-              src="/img/portfolio/portfolio-1_files/Thumbnail/illustration 5.jpg"
+              src="./img/portfolio/portfolio-1_files/Thumbnail/illustration 5.jpg"
               className="img-fluid"
               alt=""
             />
@@ -918,12 +918,12 @@ const Portfolio = () => {
             filter === "all" || filter === "illustration" ? "portfolio-item" : "hide"
           }
           onClick={() =>
-            setSelectedImage("/img/portfolio/portfolio-1_files/Full/illustration 4.jpg")
+            setSelectedImage("./img/portfolio/portfolio-1_files/Full/illustration 4.jpg")
           }
         >
           <div className="portfolio-wrap">
             <img
-              src="/img/portfolio/portfolio-1_files/Thumbnail/illustration 4.jpg"
+              src="./img/portfolio/portfolio-1_files/Thumbnail/illustration 4.jpg"
               className="img-fluid"
               alt=""
             />
