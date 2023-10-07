@@ -58,7 +58,7 @@ const Portfolio = () => {
             filter === "all" || filter === "design" ? "portfolio-item" : "hide"
           }
           onClick={() =>
-            setSelectedImage("./img/portfolio/portfolio-1_files/Full/Design 9.jpg")
+            setSelectedImage("/img/portfolio/portfolio-1_files/Full/Design 9.jpg")
           }
         >
           <div className="portfolio-wrap">
